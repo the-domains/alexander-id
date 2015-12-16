@@ -1,7 +1,7 @@
 name: Alexander.id
 favicon: null
-layout_spectrum: 0.25866629276424646
-typography_spectrum: 0.3677632117178291
+layout_spectrum: 0.99477
+typography_spectrum: 0.52835
 title: Random Musings of a Digital Enthusiast
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.005784748354926705
-  lightness: 0.77679363056086
-  saturation: 0.08747059991583228
-  rhythmicContrast: 0.43491514888592064
+  brandStrength: 0
+  lightness: 0.6875
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
